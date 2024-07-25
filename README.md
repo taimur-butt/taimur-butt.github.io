@@ -1,5 +1,4 @@
 # Data Analyst
-#### [LinkedIn Profile](https://www.linkedin.com/in/taimur-butt-458512177/)
 
 ## Work Experience
 **Data Analytics Consultant @ Turnberry Solutions (_March 2022 - Present_)**
