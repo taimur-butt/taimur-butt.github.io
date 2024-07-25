@@ -21,7 +21,7 @@
 - Keep management informed by preparing reports on company and employee performance to maintain one of the highest average improvements on the ACT and SAT in the state of Georgia
 
 ## Education
-- B.B.A Computer Information Systems | Georgia State University
+- B.B.A Computer Information Systems , Georgia State University
 
 ## Professional Certificates
 - Microsoft Certified: Power BI Data Analyst Associate
