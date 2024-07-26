@@ -27,4 +27,9 @@
 - Microsoft Certified: Power BI Data Analyst Associate
 - PCEP: Certified Entry Level Python Programmer
 
+## Projects
+### [SQL Soccer Data Analysis](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project)
+
+Analyzed soccer data from the 2012 to 2023 seasons using PostgreSQL. This included querying player stats, team performance metrics, and identifying top scorers. The analysis provided insights into player trends, team dynamics, and scoring patterns over the past decade.
+
 #### Technical Skills: SQL, Tableau, Python, Power BI, Excel, Jira
