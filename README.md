@@ -28,7 +28,7 @@
 - PCEP: Certified Entry Level Python Programmer
 
 ## Projects
-### [SQL Soccer Data Analysis](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project)
+### [SQL Soccer Data Analysis](https://taimur-butt.github.io/Soccer-Analysis-SQL-Project/)
 
 Analyzed soccer data from the 2012 to 2023 seasons using PostgreSQL. This included querying player stats, team performance metrics, and identifying top scorers. The analysis provided insights into player trends, team dynamics, and scoring patterns over the past decade.
 
