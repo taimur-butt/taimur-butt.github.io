@@ -31,7 +31,7 @@ Welcome to my GitHub page! I am a Data Analyst with a passion for data-driven so
 
 ### **SQL Soccer Data Analysis**
 - Analyzed player performance data using PostgreSQL and Excel.
-- [GitHub Repository](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project)
+- [GitHub Repository](https://taimur-butt.github.io/Soccer-Analysis-SQL-Project/)
 
 ---
 
