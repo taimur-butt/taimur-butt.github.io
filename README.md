@@ -21,7 +21,7 @@ Welcome to my GitHub page! I am a Data Analyst with a passion for data-driven so
 - Created Power BI dashboards to enhance client engagement.
 
 ### **Apollo Tutoring — Client Data Analytics Manager**  
-*June 2018 - March 2022*  
+*June 2018 - August 2020*  
 - Managed a database tracking test scores and client progress, increasing client acquisition by 50% through data-driven insights.
 - Developed tailored reports to enhance client engagement and retention.
 
