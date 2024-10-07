@@ -1,6 +1,6 @@
 # Taimur Butt | Data Analyst
 
-Welcome to my GitHub page! I am a Data Analyst with a passion for data-driven solutions and visualization. With over 3 years of experience, I specialize in SQL, Python, Power BI, and Tableau, working on diverse projects. Explore my portfolio and get in touch!
+I’m a Data Analyst passionate about data-driven solutions and visualization. I specialize in SQL, Python, Power BI, and Tableau, working across diverse projects. Explore my work and feel free to connect!
 
 ## [Resume](#resume) | [Projects](#projects) | [Skills](#skills) | [Contact](#contact)
 
