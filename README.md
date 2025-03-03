@@ -8,6 +8,12 @@ I’m a Data Analyst passionate about data-driven solutions and visualization. I
 
 ## Resume
 
+### **LGE Community Credit Union — Data Analyst**  
+*December 2024 - Present*  
+- Oversee daily data pipelines from multiple internal and third-party systems, ensuring timely, accurate data for enterprise-wide reporting.
+- Build real-time analytics dashboards in TIBCO Spotfire and Power BI, reducing ad-hoc requests and empowering cross-functional teams with self-service insights.
+- Provide data-driven reporting for leadership, leveraging advanced SQL queries to inform strategic decisions on product performance and member engagement.
+
 ### **Turnberry Solutions — Data Analysis Senior Associate**  
 *March 2022 - August 2024*  
 - Led reporting suite migration and developed dashboards to improve data accessibility.
@@ -36,11 +42,13 @@ I’m a Data Analyst passionate about data-driven solutions and visualization. I
 ---
 
 ## Skills
-- **Data Analysis**: SQL (MySQL, PostgreSQL), Data Cleaning, Data Validation.
-- **Visualization Tools**: Power BI, Tableau.
-- **Programming**: Python.
-- **Database Management**: SQL, Excel.
-- **Tools**: MySQL Workbench, pgAdmin, Alteryx, Jira.
+- **Data Analysis**: SQL (MySQL, PostgreSQL, Micsrosoft SQL Server), Data Cleaning, Data Validation.
+- **Data Visualization**: Power BI, Tableau, TIBCO Spotfire.
+- **Programming**: Python (Data Manipulation, Basic Automation).
+- **Database Management**: SQL (Stored Procedures, Views, Excel, Data Warehousing.
+- **Automation**: Excel Macros, SQL Workflows.
+- **Tools**: MySQL Workbench, pgAdmin, Alteryx, Jira, Azure.
+- **Soft Skills**: Collaboration, Analytical Thinking, Adaptability
 
 ---
 
